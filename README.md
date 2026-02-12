@@ -29,7 +29,7 @@ Proteomics data analysed in this study is available at:
 - FACE and Barcelona-1 cohorts: http://www.fundacioace.com/
 - PPMI: https://www.ppmi-info.org/
 - Stanford-ADRC: https://live-knightadrc-washu.pantheonsite.io/professionals-clinicians/request-center-resources/
-- The harmonized GNPC dataset will be made publicly available following an embargo period at https://www.neuroproteome.org. 
+- GNPC: Members of the global research community can place a data use request via the AD Discovery Portal (https://discover.alzheimersdata.org/). Access is contingent upon adherence to the GNPC Data Use Agreement and the Publication Policies.
 
 # Requirements
 The code was written in R (version 4.3.0) and relies on multiple R and Bioconductor packages, including:
